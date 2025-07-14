@@ -14,7 +14,7 @@ A clean, customizable password generator built using **React**, **Tailwind CSS**
 
 ## 🖼️ Preview
 
-![Password Generator Screenshot](passwordGenerator.png) 
+![Password Generator Screenshot](public/passwordGenerator.png) 
 
 ## 📦 Tech Stack
 
